@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica_Final_MP07</string>
+    <string name="tituloFA">Fragment A</string>
+    <string name="subtituloFA">Fragment Principal</string>
+    <string name="boton1">Ir a Fragment B</string>
+    <string name="boton2">Ir a Fragment C</string>
+    <string name="tituloFB">Fragment B</string>
+    <string name="subtituloFB">MotionLayout del Fragment B</string>
+    <string name="tituloFC">Fragment C</string>
+    <string name="subtituloFC">MotionLayout del Fragment C</string>
+</resources>
